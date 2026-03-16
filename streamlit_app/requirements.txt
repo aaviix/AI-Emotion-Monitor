@@ -1,0 +1,15 @@
+# Streamlit App Requirements for AI Emotion Monitor
+
+# Streamlit
+streamlit>=1.28.0
+
+# Core ML/DL (shared with backend)
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+Pillow>=10.0.0
+
+# Utilities
+python-dotenv>=1.0.0
