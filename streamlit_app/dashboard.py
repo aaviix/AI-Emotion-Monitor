@@ -2,7 +2,7 @@
 Enhanced Streamlit Clinical Dashboard for AI Emotion Monitor.
 
 This refactored version uses shared backend modules for code reusability
-while maintaining all original functionality from Group_7_clinical_dashboard.py.
+while maintaining all original functionality from clinical_dashboard.py.
 
 Features:
 - Real-time emotion detection with webcam

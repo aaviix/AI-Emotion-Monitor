@@ -1,6 +1,6 @@
 # AI-Driven Emotional Intelligence Monitor for Mental Health
 
-Real-time emotion detection and monitoring system for mental health professionals. Developed for the Deep Learning Module (MSc. AIM) at HFU.
+Real-time emotion detection and monitoring system for mental health professionals.
 
 **Features:**
 - 🧠 Improved CNN (65.9% accuracy on FER2013)
@@ -304,7 +304,7 @@ AI-Emotion-Monitor-HFU/
 │   └── emotion_model_cnn_improved.pth  # Trained CNN (4.8 MB)
 │
 ├── notebooks/                        # Training & Research
-│   └── Group_7_AI_Emotion_Detection_DL.ipynb
+│   └── AI_Emotion_Detection_DL.ipynb
 │
 ├── .env.example                      # Environment variable template
 ├── .gitignore                        # Git ignore rules
@@ -1025,7 +1025,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **HFU (Hochschule Furtwangen University)** for academic support
 - **FER2013 Dataset** for training data
 - **PyTorch Team** for the deep learning framework
 - **OpenCV Community** for computer vision tools
@@ -1048,7 +1047,7 @@ For questions, issues, or contributions:
 - 📘 **[QUICKSTART.md](QUICKSTART.md)** - Detailed setup guide
 - 🏗️ **[NEXTJS_SETUP.md](NEXTJS_SETUP.md)** - Next.js implementation details
 - 📱 **[frontend/README.md](frontend/README.md)** - Frontend documentation
-- 🔬 **[Jupyter Notebook](Group_7_AI_Emotion_Detection_DL.ipynb)** - Model training details
+- 🔬 **[Jupyter Notebook](AI_Emotion_Detection_DL.ipynb)** - Model training details
 
 ---
 
